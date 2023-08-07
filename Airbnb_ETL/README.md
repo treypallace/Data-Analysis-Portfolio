@@ -14,3 +14,5 @@ Then run the notebook. This will create and populate a database named 'airbnb'. 
 
 ## Language and Programs
 * SQL (MySQL)
+* Python
+* Jupyter Notebook
