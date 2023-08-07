@@ -10,5 +10,5 @@ user_id = "root"
 
 pwd = "mysqlpwd" 
 
-Then run the notebook. This will create and populate a database named 'airbnb'. To test the functionality of the database, run the SQL file named "ds2002project.sql". 
+Then run the notebook. This will create and populate a database named 'airbnb'. To test the functionality of the database, run the SQL file named "date_dim.sql". 
 
