@@ -5,6 +5,6 @@ This project aims to address the need for comprehensive insights into the sales 
 
 
 ## Language and Programs 
-SQL
-Excel
-Tableau
+SQL \n
+Excel \n
+Tableau 
