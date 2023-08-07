@@ -3,7 +3,7 @@ This visualization explores the cost of living for a student living on campus in
 
 
 ## Language 
-R
+* R
 
 ### Relevant Packages
 dplyr, ggplot2
